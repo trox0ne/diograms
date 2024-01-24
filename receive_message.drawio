@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T13:44:18.854Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" version="22.1.18" etag="mJMBZ89XRTZwi6GbuEyw" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T16:33:14.060Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.1077 YaBrowser/23.9.1.1077 Yowser/2.5 Safari/537.36" etag="BzkbSTS558SVZHiP64nA" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="WhHGeKgtzC6bcO2Yu_e3">
-    <mxGraphModel>
+    <mxGraphModel dx="1624" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-1" value="Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-3" value="{&quot;pres&quot;:{&quot;topic&quot;:&quot;me&quot;,&quot;src&quot;:&quot;usrJuPmrXlxP4A&quot;,&quot;what&quot;:&quot;msg&quot;,&lt;br&gt;&quot;seq&quot;:26,&quot;act&quot;:&quot;usrJuPmrXlxP4A&quot;}}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-4" value="Client" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="190" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-5" value="{&quot;sub&quot;:{&quot;get&quot;:{&quot;data&quot;:{&quot;since&quot;:26},&quot;what&quot;:&quot;data&quot;},&quot;id&quot;:&quot;74836&quot;,&quot;topic&quot;:&quot;usrJuPmrXlxP4A&quot;}}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-7" value="Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-8" value="{&quot;ctrl&quot;:{&quot;id&quot;:&quot;74840&quot;,&quot;topic&quot;:&quot;usrJuPmrXlxP4A&quot;,&quot;code&quot;:200,&quot;text&quot;:&quot;ok&quot;,&quot;ts&quot;:&quot;2024-01-24T13:47:37.645Z&quot;}}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-9" value="{&quot;data&quot;:{&quot;topic&quot;:&quot;usrJuPmrXlxP4A&quot;,&quot;from&quot;:&quot;usrJuPmrXlxP4A&quot;,&quot;ts&quot;:&quot;2024-01-24T13:47:21.854Z&quot;,&quot;seq&quot;:27,&quot;content&quot;:&quot;T&quot;}}" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mPz_wThAsJ8DtlpbSA_U-10" value="{&quot;note&quot;:{&quot;seq&quot;:26,&quot;topic&quot;:&quot;usrJuPmrXlxP4A&quot;,&quot;what&quot;:&quot;recv&quot;}}" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="340" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
