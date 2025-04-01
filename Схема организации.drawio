@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Страница — 1" id="NOrmsy85nyJQf3bmP_AI">
-    <mxGraphModel>
+    <mxGraphModel dx="1355" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tcJ703E6L3HzMBduHyRV-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-4" value="&lt;code data-end=&quot;386&quot; data-start=&quot;373&quot;&gt;super_admin&lt;/code&gt;: полный доступ ко всем организациям." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-5" value="&lt;code data-end=&quot;440&quot; data-start=&quot;429&quot;&gt;org_admin&lt;/code&gt;: управление организацией (пользователи, проекты, оборудование)." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-6" value="&lt;code data-end=&quot;516&quot; data-start=&quot;510&quot;&gt;user&lt;/code&gt;: работа в рамках своих проектов." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-7" value="Организация" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-8" value="Проект 1" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="485" y="148" width="200" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-10" value="Тип:&amp;nbsp;&lt;span style=&quot;font-weight: 700;&quot;&gt;СЛЭМ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tcJ703E6L3HzMBduHyRV-8">
+          <mxGeometry x="45" y="22" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-9" value="Проект 2" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="643.61" y="250" width="232.79" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-11" value="Тип: HIVE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tcJ703E6L3HzMBduHyRV-9">
+          <mxGeometry x="60" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-30" value="Функционал:&amp;nbsp;&lt;div&gt;Построение миссий для дронов,&lt;div&gt;&amp;nbsp;управления дроном,&lt;/div&gt;&lt;div&gt;&amp;nbsp;управление станцией,&lt;/div&gt;&lt;div&gt;&amp;nbsp;выгрузка данных с миссий дронов,&lt;/div&gt;&lt;div&gt;&amp;nbsp;видеотрансляции с дронов и станции&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tcJ703E6L3HzMBduHyRV-9">
+          <mxGeometry x="-3.600000000000037" y="55" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-12" value="Проект 3" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="910" y="183" width="210" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-13" value="Тип: ЦУП" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tcJ703E6L3HzMBduHyRV-12">
+          <mxGeometry x="50" y="25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-26" value="Сущности: Дроны, Антенны, Вьюга" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tcJ703E6L3HzMBduHyRV-12">
+          <mxGeometry x="-10" y="65" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-14" value="Проект 4" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="890" y="20" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-15" value="Тип: ГПВО" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tcJ703E6L3HzMBduHyRV-14">
+          <mxGeometry x="60" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-22" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="654.97" y="112.78" width="57.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-23" value="Сущности: - Дроны, Станции" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="288" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-24" value="Сущности: Дроны" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="198" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-27" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="110" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="50" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-29" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-135;" vertex="1" parent="1">
+          <mxGeometry x="800" y="130" width="117.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcJ703E6L3HzMBduHyRV-32" value="&lt;li class=&quot;&quot; data-end=&quot;162&quot; data-start=&quot;119&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;162&quot; data-start=&quot;121&quot;&gt;&lt;code data-end=&quot;136&quot; data-start=&quot;121&quot;&gt;organizations&lt;/code&gt;: &lt;code data-end=&quot;162&quot; data-start=&quot;138&quot;&gt;{ _id, name, adminId }&lt;/code&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;211&quot; data-start=&quot;166&quot;&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;211&quot; data-start=&quot;168&quot;&gt;&lt;code data-end=&quot;178&quot; data-start=&quot;168&quot;&gt;projects&lt;/code&gt;: &lt;code data-end=&quot;211&quot; data-start=&quot;180&quot;&gt;{ _id, name, organizationId, typeId }&lt;/code&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;272&quot; data-start=&quot;215&quot;&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;272&quot; data-start=&quot;217&quot;&gt;&lt;code data-end=&quot;224&quot; data-start=&quot;217&quot;&gt;users&lt;/code&gt;: дополнить &lt;code data-end=&quot;272&quot; data-start=&quot;236&quot;&gt;{ organizationId, projectIds: [] }&lt;/code&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;&quot; data-end=&quot;326&quot; data-start=&quot;276&quot;&gt;&lt;br&gt;&lt;p class=&quot;&quot; data-end=&quot;326&quot; data-start=&quot;278&quot;&gt;&lt;code data-end=&quot;286&quot; data-start=&quot;278&quot;&gt;drones&lt;/code&gt; и &lt;code data-end=&quot;299&quot; data-start=&quot;289&quot;&gt;stations&lt;/code&gt;: дополнить &lt;code data-is-only-node=&quot;&quot; data-end=&quot;326&quot; data-start=&quot;311&quot;&gt;{ projectId }&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="318" width="370" height="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
