@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="29.3.8" pages="5">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1434" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -186,6 +186,194 @@
         <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2sejVQypOWiv1DLe4Mxv" name="Страница-2">
+    <mxGraphModel dx="1378" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GmuE1bPJj79p10ja2fr4-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="376" width="130" x="995" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-5" parent="1" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" value="Предоставление Wi-Fi как “точки доступа” для клиентов" vertex="1">
+          <mxGeometry height="50" width="180" x="565" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Канальный" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сетевой" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Транспортный" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сеансовый" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Представления" vertex="1">
+          <mxGeometry height="110" width="200" x="760" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Прикладной" vertex="1">
+          <mxGeometry height="110" width="200" x="760" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Физический" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-17" parent="1" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" value="Формирование единой IP-сети&#xa;Создание VPN туннелей" vertex="1">
+          <mxGeometry height="56" width="190" x="555" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;text-align: left;&quot;&gt;&amp;nbsp;AI-кодек&lt;/b&gt;&lt;br style=&quot;text-align: left;&quot;&gt;Сжатие передаваемых данных" vertex="1">
+          <mxGeometry height="50" width="130" x="605" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx45edsi7ZGGdIn9Z3aR-23" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.wireless_hub;network2IconYOffset=-0.1142;network2IconW=1;network2IconH=0.5485;" value="" vertex="1">
+          <mxGeometry height="40" width="72.92" x="123.54000000000002" y="534" as="geometry" />
+        </mxCell>
+        <mxCell id="EuOtPCVOPrcZ_fm5xNjY-1" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;ТРК&lt;/b&gt; - это &lt;span data-start=&quot;1056&quot; data-end=&quot;1069&quot;&gt;узел/шлюз&lt;/span&gt;, который на &lt;strong data-start=&quot;1082&quot; data-end=&quot;1093&quot;&gt;L3 (IP)&lt;/strong&gt; объединяет разные каналы связи в одну сеть, а на &lt;strong data-start=&quot;1143&quot; data-end=&quot;1149&quot;&gt;L2&lt;/strong&gt; даёт подключение (например, как защищённая Wi-Fi-точка) и стыкуется с радиосредствами." vertex="1">
+          <mxGeometry height="90" width="300" x="30" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="gn3Y-hJRmAYUSHj-rUEY-1" parent="1" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" value="UDP/TCP&#xa;Телец" vertex="1">
+          <mxGeometry height="60" width="90" x="625" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="TlqbVpXIbbMMvsofHJEw-1" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&amp;nbsp;AI-кодек&lt;/b&gt;&lt;br&gt;Выбор режима работы «в реальном времени», целевое разрешение и требования к каналу." vertex="1">
+          <mxGeometry height="50" width="270" x="465" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jPTNXSt74qZ7IVbFwOUt-1" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&amp;nbsp;AI-кодек&lt;/b&gt;&lt;br&gt;Сжатие видеопотока, преобразование кадра в компактное представление и обратно." vertex="1">
+          <mxGeometry height="50" width="257.5" x="477.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gebCVokOaArHqnOaSZbj-1" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&amp;nbsp;AI-кодек&lt;/b&gt;&lt;br&gt;Управление сеансом потока: старт/стоп видеосессии, восстановление после обрыва, синхронизация/согласование параметров потока" vertex="1">
+          <mxGeometry height="65" width="300" x="440" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ5ey6Szz2TkCTbNYFs1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;AI-к&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;одек&lt;/b&gt; -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; text-align: justify; text-indent: 0.39in; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;нейронный видеокодек реального времени предназначен для обеспечения эффективного сжатия для передачи по низкоскоростным каналам связи и качественного воспроизведения изображения.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="112.4" width="320" x="30" y="240.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ5ey6Szz2TkCTbNYFs1-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.cctv;network2IconXOffset=-0.0002;network2IconYOffset=-0.0355;network2IconW=1.0004;network2IconH=0.7279;" value="" vertex="1">
+          <mxGeometry height="36.394999999999996" width="50.019999999999996" x="134.99" y="362.4" as="geometry" />
+        </mxCell>
+        <mxCell id="7KUWtF83NfvF36T7umfo-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Оникс&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="135.01" x="81.02999999999999" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pjWhPW4RUoHuqLty2nIa-1" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.laptop;network2IconW=1;network2IconH=0.5734;" value="" vertex="1">
+          <mxGeometry height="28.67" width="50" x="123.53999999999998" y="111.33000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="pjWhPW4RUoHuqLty2nIa-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Оникс - &lt;/b&gt;Прикладное ПО для управления боем" vertex="1">
+          <mxGeometry height="50" width="135.01" x="538.74" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-9" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="Wi-Fi мост" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="382.12" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-10" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="WireGuard" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="675.87" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-11" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="Континент" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="418.12" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-15" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="Волновая сеть" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="487.97" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-31" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="Интернет" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="597.12" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-13" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="Азарт" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="455.87" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-17" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="&amp;nbsp;Kirisun" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="525.87" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-19" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="Оптоволокно (КВН)" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="562.12" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-38" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fontSize=13;fontStyle=1;fontColor=#252525;" value="СКС" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="635.87" as="geometry" />
+        </mxCell>
+        <mxCell id="GmuE1bPJj79p10ja2fr4-41" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=180;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="35" x="960" y="506" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i9lxRMAcliTU4tf7Inu8" name="Страница-3">
+    <mxGraphModel dx="1378" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Канальный" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сетевой" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="463" as="geometry" />
+        </mxCell>
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Транспортный" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сеансовый" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Представления" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="229" as="geometry" />
+        </mxCell>
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Прикладной" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="149" as="geometry" />
+        </mxCell>
+        <mxCell id="flH4ko3MyRsR8tqNtPYY-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Физический" vertex="1">
+          <mxGeometry height="60" width="200" x="910" y="629" as="geometry" />
+        </mxCell>
+        <mxCell id="X7d8ucNfoYrpUgTMMnjS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="ТРК" vertex="1">
+          <mxGeometry height="30" width="60" x="835" y="404" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5LsrYYAyE5AxSs411K6f" name="Страница-4">
+    <mxGraphModel dx="1378" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Канальный" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сетевой" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Транспортный" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сеансовый" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Представления" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Прикладной" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Физический" vertex="1">
+          <mxGeometry height="60" width="200" x="900" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Оникс" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="371" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--9" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Управление сеансом потока: старт/стоп видеосессии, восстановление после обрыва, синхронизация/согласование параметров потока" vertex="1">
+          <mxGeometry height="50" width="495" x="390" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--11" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Сжатие видеопотока, преобразование кадра в компактное представление и обратно." vertex="1">
+          <mxGeometry height="40" width="510" x="382.5" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yxX6ZW_ACbigI-4jB9G--12" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Выбор режима работы «в реальном времени», целевое разрешение и требования к каналу." vertex="1">
+          <mxGeometry height="50" width="520" x="370" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GG7NNatfNix0IFNhMT6g-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="ТРК" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="395" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wuTgil8u62MEKU6WyOd_" name="Страница-5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
