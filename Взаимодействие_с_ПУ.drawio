@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Страница-1" id="wL3CnFPKk1L50nS9TUUt">
-    <mxGraphModel>
+    <mxGraphModel dx="1378" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-3" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iFVhXEQXvc7akPTsMEjq-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="НСУ" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-5" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iFVhXEQXvc7akPTsMEjq-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Наземный модем" vertex="1">
+          <mxGeometry height="60" width="80" x="230" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-11" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="iFVhXEQXvc7akPTsMEjq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-13" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="iFVhXEQXvc7akPTsMEjq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Бортовой модем" vertex="1">
+          <mxGeometry height="60" width="90" x="360" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Полетный&lt;br&gt;контроллер" vertex="1">
+          <mxGeometry height="60" width="90" x="480" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-14" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="iFVhXEQXvc7akPTsMEjq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&amp;nbsp;Вычислитель с&amp;nbsp;&lt;br&gt;бортовым ПО" vertex="1">
+          <mxGeometry height="60" width="90" x="480" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mavlink" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ethernet" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПИВ" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-20" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.913;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iFVhXEQXvc7akPTsMEjq-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="340" as="sourcePoint" />
+            <mxPoint x="610" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-21" edge="1" parent="1" source="iFVhXEQXvc7akPTsMEjq-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="iFVhXEQXvc7akPTsMEjq-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="80" as="sourcePoint" />
+            <mxPoint x="687" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFVhXEQXvc7akPTsMEjq-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mavlink" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
